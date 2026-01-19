@@ -4,6 +4,13 @@
     🧠  I'm learning C++, Phython and Java
     ✉️  You can contact me at ahmadazrulamin@graduate.utm.my.
 
+My Current Learning Courses:
+- Discrete Structure
+- Programming Technique I (C++)
+- Technology and Information System
+- Digital Logic
+- Integrity and Anti-Corruption
+
 ### Skills
    
 <p align="left">
